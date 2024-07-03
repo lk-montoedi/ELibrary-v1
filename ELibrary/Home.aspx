@@ -8,7 +8,7 @@
     <section>
         <img src="Images/imgs/home-bg.jpg" class="img-fluid"/>
     </section>
-    <section>
+    <section class="bg-primary">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
