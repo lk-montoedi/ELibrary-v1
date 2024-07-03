@@ -14,7 +14,7 @@
                 <div class="col-12 text-center">
                     <h2>Our Features</h2>
                     <p><b>Our 3 Primary Features</b></p>
-                </div>
+                </div> 
             </div>
             <div class="row">
                 <div class="col-md-4 text-center">
