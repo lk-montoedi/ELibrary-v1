@@ -12,7 +12,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2>Our Features</h2>
+                    <h2>Our fucken Features babeee !!!!</h2>
                     <p><b>Our 3 Primary Features</b></p>
                 </div> 
             </div>
